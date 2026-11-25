@@ -1,0 +1,25 @@
+﻿# CLion / JetBrains
+.idea/
+
+# Build directories
+cmake-build-*/
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# User-specific files
+*.user
+*.suo
